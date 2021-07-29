@@ -17,7 +17,7 @@ body {
     justify-content: center;
     height: 100vh;
     overflow: hidden;
-    margin: 0%;
+    margin: 0;
 }
 
 .container {
@@ -26,7 +26,7 @@ body {
 
 .progress-container {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     position: relative; /* it will help us to define position: absolute for anything inside this container without any issue*/
     margin-bottom: 30px;
     max-width: 100%;
