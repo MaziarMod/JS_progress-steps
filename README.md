@@ -6,4 +6,4 @@ Project:
 - HTML & CSS
 
 URL:
-[live](#)
+[live](https://maziarmod.github.io/JS_progress-steps/)
